@@ -1,4 +1,4 @@
-### Hola, soy [Jose Luis] 👋
+### Hola, soy Jose Luis
 
 Soy un apasionado Ingeniero de Sistemas especializado en el desarrollo de software. Me encanta construir soluciones robustas y escalables, explorando constantemente nuevas tecnologías y metodologías para mejorar mis proyectos.
 
@@ -27,17 +27,3 @@ Aquí están algunas de las herramientas y tecnologías con las que trabajo:
 </p>
 
 ---
-
-### 🚀 Proyectos Recientes
-
-- **[Nombre del Proyecto 1]**: Breve descripción del proyecto y un enlace al repositorio.
-- **[Nombre del Proyecto 2]**: Breve descripción del proyecto y un enlace al repositorio.
-
----
-
-### 💬 Hablemos
-
-- **LinkedIn**: [Tu Enlace de LinkedIn]
-- **Correo Electrónico**: [Tu Correo Electrónico]
-
-¡Si tienes alguna pregunta o simplemente quieres charlar sobre tecnología, no dudes en contactarme!
